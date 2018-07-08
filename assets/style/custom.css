@@ -1,0 +1,41 @@
+body{
+    font-family: ABeeZee;
+    background-color: #ffffcc;
+}
+nav{
+    font-family: 'Cambay';
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.sectionHead {
+    border-radius: 20px;
+    padding: 8px 0 8px 0;
+    color: black;
+    margin: 16px 0 20px 0;
+    letter-spacing: 2px;
+    background-color:#ffc61a;
+    font-weight:bold;
+}
+
+.about{
+    margin:0px;
+    color: #fff;
+    background-color: #333333;
+    padding:10px;
+}
+
+.about-dev{
+    margin:0px;
+    color: #000000;
+    padding:10px;
+}
+
+.about-text{
+     font-size: 14px;
+     letter-spacing: 1px;
+ }
+
+.teesam-head{
+    margin-top: 20px;
+    margin-left: 250px;
+}
